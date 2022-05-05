@@ -29,7 +29,7 @@ Website Link: https://colab.research.google.com/github/sokrypton/ColabFold/blob/
 
 <img width="828" alt="image" src="https://user-images.githubusercontent.com/64282221/160210349-cf4a6bbd-879d-4766-862f-a48b3bc7131c.png">
 
-- **Final input sequence in ColabFold format:** Let's select the interacted domains from the input sequences and prepare the input file for ColabFold as below:
+- **Final input sequence in ColabFold format:** Let's select the interacting domains from the input sequences and prepare the input file for ColabFold as below:
 
 TTDAECLSKPAFDGTLSNVWKEGDSRYANFENCIYELSGIGIGYDNDTSWNGHWTPVRAAD:SGADINNYAGQIKSAIESKFYDASSYAGKTCTLRIKLAPDGMLLDIKPEGGDPALCQAALAAAKLAKIPKPPSQAVYEVFKNAPLDFKPA
 
